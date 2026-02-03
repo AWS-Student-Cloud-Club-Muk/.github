@@ -42,6 +42,8 @@ Whether you’re just starting out or already building in the cloud — **you be
 
 ## Who Can Join?
 
+![AWS Student Club Members – Ghibli style illustration](../assets/ghibli-students.png)
+
 ✅ Makerere University students  
 ✅ Beginners curious about cloud  
 ✅ Developers, designers & tech enthusiasts  
