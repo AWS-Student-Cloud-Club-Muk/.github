@@ -15,6 +15,8 @@
 
 ## 👋 Welcome
 
+![AWS Student Club Members – Ghibli style illustration](../assets/ghibli-students.png)
+
 Welcome to the **AWS Student Club Makerere University** GitHub organization 💜  
 We are a **student-led cloud computing community** focused on learning, building, and sharing knowledge using **Amazon Web Services (AWS)**.
 
@@ -41,8 +43,6 @@ Whether you’re just starting out or already building in the cloud — **you be
 ---
 
 ## Who Can Join?
-
-![AWS Student Club Members – Ghibli style illustration](../assets/ghibli-students.png)
 
 ✅ Makerere University students  
 ✅ Beginners curious about cloud  
