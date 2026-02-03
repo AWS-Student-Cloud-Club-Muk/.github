@@ -40,7 +40,7 @@ Whether you’re just starting out or already building in the cloud — **you be
 
 ---
 
-## 🎯 Who Can Join?
+## Who Can Join?
 
 ✅ Makerere University students  
 ✅ Beginners curious about cloud  
